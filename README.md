@@ -1,4 +1,4 @@
-### Quick Polls
+### ADVERT PAGE 
 > Features: create polls, vote on polls, authentication, leaderboard
 
 ![adsss](https://github.com/Dflexcee/FLEXTECH-ADVERT-PAGE/assets/53564831/1e1c6978-6718-4b2c-a39c-d8652e5188ee)
