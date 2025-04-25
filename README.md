@@ -13,7 +13,7 @@ A simple responsive advert page for client doing ads
 - HTML/CSS(Flexbox)
 
 ## Live Demo
-[Click Here](https://flexceetech.com)
+[Click Here](https://flexceetech.world)
 
 ## How to Run the App Locally
 ```
